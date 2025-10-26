@@ -49,4 +49,3 @@ The **Support Vector Machine (SVM) classifier** delivered the best overall perfo
     *   `numpy`
     *   `scikit-learn`
     *   `matplotlib`
-    *   `seaborn`
